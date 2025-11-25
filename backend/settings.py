@@ -96,8 +96,8 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'demo_jij_db',  # Replace with your DB name
         'USER': 'root',
-        'PASSWORD': 'jagath10',  # Put your root password here
-        'HOST': '127.0.0.1',
+        'PASSWORD': 'Jagath@1110A',  # Put your root password here
+        'HOST': 'localhost',
         'PORT': '3306',
     }
 }
